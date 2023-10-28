@@ -12,7 +12,7 @@ Roadmap: [roadmap.md](roadmap.md) - XML version: [wa-and-of-buildings-roadmap.xm
 Updates file: [updates.md](updates.md) - XML version: [wa-and-of-buildings-updates.xml](wa-and-of-buildings-updates.xml)
 
 # Credits:
-Check [Credits.md](link) or read below.
+Check [Credits.md](Credits.md) or read below.
 - Gwel for:
   - Images of shelves for the warehouse (He posted an image that he meant for his mall but I was faster than him)
   - Fire alarm
