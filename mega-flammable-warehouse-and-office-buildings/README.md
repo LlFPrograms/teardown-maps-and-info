@@ -7,9 +7,9 @@ You can find:
 
 Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3061052338
 
-Roadmap: https://github.com/LlFPrograms/teardown-maps-and-info/blob/main/mega-flammable-warehouse-and-office-buildings/roadmap.md
+Roadmap: [roadmap.md](roadmap.md) - XML version: [wa-and-of-buildings-roadmap.xml](wa-and-of-buildings-roadmap.xml)
 
-Updates file: (updates file link here)
+Updates file: [updates.md](updates.md) - XML version: [wa-and-of-buildings-updates.xml](wa-and-of-buildings-updates.xml)
 
 # Credits:
 Check [Credits.md](link) or read below.
