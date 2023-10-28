@@ -1,0 +1,73 @@
+<?xml-model href="wa-and-of-buildings-roadmap.xsd"?>
+<roadmap mapurl="https://steamcommunity.com/sharedfiles/filedetails/?id=3061052338" mapname="Mega flammable warehouse &amp; office buildings" iconurl="https://steamuserimages-a.akamaihd.net/ugc/2131950977859619007/9768D06C31454F850381F3C1CAAE137EFFD19332/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+    <category name="Known issues">
+        <item>
+            <important>true</important>
+            <content>Video projector not working</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>A tunnel having some black things above, fix this weekend</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Some random rock things in the small heightmap where the rocky hills are for the big heightmap, going to fix this (planned to fix next update)</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Missing grass for small heightmap (planned to fix next update)</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Custom roads a bit ugly and too visible on the road (heightmap will fix this)</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Custom roads hard to drive on</content>
+        </item>
+    </category>
+    <category name="Coming out later">
+        <item>
+            <important>false</important>
+            <content>Ground floor totally furnished</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Warehouse getting an office</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>A special office for me because I made the map</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Cars on the parking</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>A few fixed details</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Version of the buildings that can be copied to other maps easily</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Some signs for the road</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Custom tunnels for the map (will not be there that soon lol)</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Improved heightmap for the parking roads</content>
+        </item>
+        <item>
+            <important>false</important>
+            <content>Improved heightmap for the parking itself, I think it's 100% possible.</content>
+        </item>
+    </category>
+
+    <lastupdate>2208988880</lastupdate>
+</roadmap>
