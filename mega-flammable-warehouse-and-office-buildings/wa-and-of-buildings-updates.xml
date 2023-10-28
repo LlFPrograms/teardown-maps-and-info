@@ -1,0 +1,14 @@
+<?xml-model href="wa-and-of-buildings-updates.xsd"?>
+<updates currentVersion="0.7">
+    <version value="0.7">
+        <updatecontent patch="0" time="1695857920">
+            <item>Improved the main menu</item>
+            <item>Added a smaller heightmap</item>
+            <item>Less heavy heightmap (tilesize = 85, previous tile size was 128)</item>
+        </updatecontent>
+        <updatecontent patch="1" time="1695942660">
+            <item>Fixed again warehouse not having furnitures, for "only offce &amp; warehouse" option (I'm stupid lmao)</item>
+            <item>Next version will have new things to the map</item>
+        </updatecontent>
+    </version>
+</updates>
