@@ -6,7 +6,9 @@ You can find:
 - the credits for it (.md and .xml formats)
 
 Link: https://steamcommunity.com/sharedfiles/filedetails/?id=3061052338
-Roadmap: (roadmap link here)
+
+Roadmap: https://github.com/LlFPrograms/teardown-maps-and-info/blob/main/mega-flammable-warehouse-and-office-buildings/roadmap.md
+
 Updates file: (updates file link here)
 
 # Credits:
