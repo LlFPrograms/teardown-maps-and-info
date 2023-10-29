@@ -29,9 +29,11 @@
                                                 </xs:sequence>
                                             </xs:complexType>
                                         </xs:element>
+
+                                        <xs:element name="additionalNote" type="xs:string"/>
                                     </xs:sequence>
                                     <xs:attribute name="patch" type="xs:integer" use="required" />
-                                    <xs:attribute name="time" type="xs:integer" use="required" />
+                                    <xs:attribute name="time" type="xs:string" use="required" />
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>

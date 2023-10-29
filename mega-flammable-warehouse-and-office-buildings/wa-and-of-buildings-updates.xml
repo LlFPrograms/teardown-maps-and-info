@@ -1,7 +1,7 @@
 <?xml-model href="wa-and-of-buildings-updates.xsd"?>
 <updates currentVersion="0.7">
     <version value="0.7">
-        <updatecontent patch="0" time="1695857920">
+        <updatecontent patch="0" time="2023-10-27T18:32:00">
             <item>Improved the main menu</item>
             <item>Added a smaller heightmap</item>
             <item>Less heavy heightmap (tilesize = 85, previous tile size was 128)</item>
@@ -13,8 +13,10 @@
                 <item alreadyExisted="true">2 differents heightmaps to play the map with (Added a smaller one so you can spawn planes)</item>
                 <item alreadyExisted="true">Fire alarm for the office &amp; warehouse building</item>
             </currentFeatures>
+
+            <additionalNote/>
         </updatecontent>
-        <updatecontent patch="1" time="1695942660">
+        <updatecontent patch="1" time="2023-10-28T09:51:00">
             <item>Fixed again warehouse not having furnitures, for "only offce &amp; warehouse" option (I'm stupid lmao)</item>
             <item>Next version will have new things to the map</item>
 
@@ -25,6 +27,28 @@
                 <item alreadyExisted="true">2 differents heightmaps to play the map with (Added a smaller one so you can spawn planes)</item>
                 <item alreadyExisted="true">Fire alarm for the office &amp; warehouse building</item>
             </currentFeatures>
+
+            <additionalNote>Still version 0.7</additionalNote>
+        </updatecontent>
+    </version>
+
+    <version value="0.8">
+        <updatecontent patch="0" time="2023-10-29T18:09:00">
+            <item>Heightmap roads to access the parking</item>
+            <item>Added grass where it was missing</item>
+            <item>Fixed the black things above one tunnel</item>
+            <item> Removed random rocks where there shouldn't be on small heightmap</item>
+            <item>Fixed my stupidity again for the menu, I promise that this is the last time the menu has a problem! The problem was that instead of the parking (for "Only office &amp; parking"), it was the warehouse...</item>
+        
+            <currentFeatures>
+                <item alreadyExisted="true">2 almost furnished floors</item>
+                <item alreadyExisted="true">A warehouse with a bunch of boxes and shelves (dynamic)</item>
+                <item alreadyExisted="true">Some outside props (there will be more than this)</item>
+                <item alreadyExisted="true">2 differents heightmaps to play the map with (Added a smaller one so you can spawn planes)</item>
+                <item alreadyExisted="true">Fire alarm for theoffice &amp; warehouse building</item>
+            </currentFeatures>
+
+            <additionalNote>Fixed a few things!</additionalNote>
         </updatecontent>
     </version>
 </updates>

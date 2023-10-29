@@ -7,19 +7,7 @@
         </item>
         <item>
             <important>false</important>
-            <content>A tunnel having some black things above, fix this weekend</content>
-        </item>
-        <item>
-            <important>false</important>
-            <content>Some random rock things in the small heightmap where the rocky hills are for the big heightmap, going to fix this (planned to fix next update)</content>
-        </item>
-        <item>
-            <important>false</important>
-            <content>Missing grass for small heightmap (planned to fix next update)</content>
-        </item>
-        <item>
-            <important>false</important>
-            <content>Custom roads a bit ugly and too visible on the road (heightmap will fix this)</content>
+            <content>Only 1 custom road left, will probably not get fixed</content>
         </item>
         <item>
             <important>false</important>
@@ -61,13 +49,9 @@
         </item>
         <item>
             <important>false</important>
-            <content>Improved heightmap for the parking roads</content>
-        </item>
-        <item>
-            <important>false</important>
             <content>Improved heightmap for the parking itself, I think it's 100% possible.</content>
         </item>
     </category>
 
-    <lastupdate>2023-10-28T10:08:00</lastupdate>
+    <lastupdate>2023-10-29T19:42:00</lastupdate>
 </roadmap>
