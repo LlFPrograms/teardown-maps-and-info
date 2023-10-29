@@ -1,10 +1,10 @@
 # For XML version, go [here](link)
-Showing for version 0.7, for other version (0.7 and after), check the [XML file](link).
+Showing for version 0.8, for other version (0.7 and after), check the [XML file](wa-and-of-buildings-updates.xml).
 
-- Improved the main menu
-- Added a smaller heightmap
-- Less heavy heightmap (tilesize = 85, previous tile size was 128).
+(note): Fixed a few things!
 
-*Patch 1:*
-- Fixed again warehouse not having furniture, for "only office & warehouse" option (I'm stupid lmao)
-- Next version will have new things to the map
+- Heightmap roads to access the parking
+- Added grass where it was missing
+- Fixed the black things above one thnnel
+- Removed random rocks where there shouldn't be on small heightmap
+- Fixed my stupidity again for the menu, I promise that this is the last time the menu has a problem! The problem was that instead of the parking (for "Only office & parking"), it was the warehouse...
