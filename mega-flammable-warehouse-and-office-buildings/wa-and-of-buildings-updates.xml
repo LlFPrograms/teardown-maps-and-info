@@ -5,10 +5,26 @@
             <item>Improved the main menu</item>
             <item>Added a smaller heightmap</item>
             <item>Less heavy heightmap (tilesize = 85, previous tile size was 128)</item>
+
+            <currentFeatures>
+                <item alreadyExisted="true">2 almost furnished floors</item>
+                <item alreadyExisted="true">A warehouse with a bunch of boxes and shelves (dynamic)</item>
+                <item alreadyExisted="true">Some outside props (there will be more than this)</item>
+                <item alreadyExisted="true">2 differents heightmaps to play the map with (Added a smaller one so you can spawn planes)</item>
+                <item alreadyExisted="true">Fire alarm for the office &amp; warehouse building</item>
+            </currentFeatures>
         </updatecontent>
         <updatecontent patch="1" time="1695942660">
             <item>Fixed again warehouse not having furnitures, for "only offce &amp; warehouse" option (I'm stupid lmao)</item>
             <item>Next version will have new things to the map</item>
+
+            <currentFeatures>
+                <item alreadyExisted="true">2 almost furnished floors</item>
+                <item alreadyExisted="true">A warehouse with a bunch of boxes and shelves (dynamic)</item>
+                <item alreadyExisted="true">Some outside props (there will be more than this)</item>
+                <item alreadyExisted="true">2 differents heightmaps to play the map with (Added a smaller one so you can spawn planes)</item>
+                <item alreadyExisted="true">Fire alarm for the office &amp; warehouse building</item>
+            </currentFeatures>
         </updatecontent>
     </version>
 </updates>
