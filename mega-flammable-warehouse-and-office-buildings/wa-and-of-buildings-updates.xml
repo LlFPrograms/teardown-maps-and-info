@@ -1,5 +1,5 @@
 <?xml-model href="wa-and-of-buildings-updates.xsd"?>
-<updates currentVersion="0.7">
+<updates currentVersion="0.8">
     <version value="0.7">
         <updatecontent patch="0" time="2023-10-27T18:32:00">
             <item>Improved the main menu</item>
